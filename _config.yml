@@ -97,7 +97,7 @@ pagination:
 footer_text: '© 2022 Ishita Tewari'
 admin_name: 'Ishita Tewari'
 google_analytics: "G-MS6MBQ6Z0N" # Update with your own tracking ID
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true
